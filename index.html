@@ -29,6 +29,7 @@
     <!-- <script src="https://cdn.tailwindcss.com"></script> -->
   </head>
   <body class="antialiased">
+    <link rel="stylesheet" href="mouseover.css">
     <!-- Enhanced Navigation -->
     <nav class="fixed w-full z-50 nav-glass">
       <div class="container mx-auto px-6 py-4">
@@ -108,14 +109,10 @@
             </div>
           </div>
 
-          <div class="md:w-1/2 scroll-fade-in" style="transition-delay: 0.2s">
-            <div class="relative float-animation">
-              <div class="absolute -inset-4 bg-gradient-to-r from-purple-600 to-cyan-500 rounded-3xl blur-2xl opacity-30"></div>
-              <div class="relative bg-gray-900 rounded-2xl overflow-hidden border border-gray-800 shadow-2xl">
-                <img src="https://Techovia-Solutions.com/Techovia Solutions/app/media/Techovia Solutions-desktop.png" alt="Techovia Solutions Interface" class="w-full h-auto">
-              </div>
-            </div>
+         <div class="relative bg-gray-900 rounded-2xl overflow-hidden border border-gray-800 shadow-2xl flex justify-center items-center p-6 w-96 h-96">
+            <canvas></canvas>
           </div>
+          
         </div>
       </div>
 
@@ -383,5 +380,6 @@
     </footer>
 
     <script src="dist/script.js"></script>
+    <script src="canvas.js"></script>
   </body>
 </html>
