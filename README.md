@@ -1,13 +1,13 @@
-# 🚀 Techovia Solutions  
+# 🚀 Techovia labs  
 **Transform Your Ideas into Digital Reality — Build Fast, Scale Faster.**
 
-Techovia Solutions is a **modern full-stack engineering studio** and **free mobile website builder**.  
+Techovia labs is a **modern full-stack engineering studio** and **free mobile website builder**.  
 We empower **startups, students, and creators** to build responsive websites, web apps, and PWAs — **without writing code**, or with full-code support for scale.  
 **No installation, no registration — 100% free to start.**
 
 ---
 
-![Techovia Banner](https://raw.githubusercontent.com/Techovia-Solutions/techovia/gh-pages/imgs/header.png)
+![Techovia Banner](https://raw.githubusercontent.com/Techovia-labs/techovia/gh-pages/imgs/header.png)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Open Source](https://img.shields.io/badge/open--source-yes-green)]()
@@ -16,10 +16,10 @@ We empower **startups, students, and creators** to build responsive websites, we
 
 ---
 
-## 🌐 What is Techovia Solutions?
+## 🌐 What is Techovia labs?
 
-Techovia Solutions combines the power of **no-code web design** and **full-stack engineering**.  
-Create beautiful, production-ready websites in your browser — or get our team to build and deploy end-to-end custom solutions for you.
+Techovia labs combines the power of **no-code web design** and **full-stack engineering**.  
+Create beautiful, production-ready websites in your browser — or get our team to build and deploy end-to-end custom labs for you.
 
 ✅ Free Mobile Website Builder  
 ✅ Full-Stack Development Services  
@@ -84,11 +84,11 @@ Powered by a **custom Virtual DOM & Diffing Algorithm** built using **JavaScript
 
 ## 🧩 Try It Now
 
-🌍 **Online Builder:** [Techovia Solutions Online](https://techovia-solutions.github.io/techovia)
+🌍 **Online Builder:** [Techovia labs Online](https://techovia-labs.github.io/techovia)
 
 or run locally:
 
 ```bash
-git clone https://github.com/Techovia-Solutions/techovia.git
+git clone https://github.com/Techovia-labs/techovia.git
 cd techovia
 python3 -m http.server 8000
