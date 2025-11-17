@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build:css": "postcss src/bundle.css -o dist/bundle.css",
-    
+    "start": "open index.html",
     "build": "npm run build:css",
     "serve": "http-server -c-1 -p 8081"
   },
