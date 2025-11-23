@@ -12,8 +12,7 @@ const Contact = () => {
   const [submitted, setSubmitted] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
-  const YOUR_WEB_APP_URL_HERE =
-    "https://script.google.com/macros/s/AKfycbwm6OKCRujmL57_TKhbCKE4r9JnBq3xScCUZQdw_r55YQVn-omYxZLYHLOfAsBg2ks6/exec";
+  const YOUR_WEB_APP_URL_HERE = "https://script.google.com/macros/s/AKfycbzFKifBMPXQduRC79euG_ssNM_00irP_lBjzoD_8f8M5bXntN9HO1vXJuIOMhKSaxiC/exec";
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
