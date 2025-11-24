@@ -46,7 +46,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="min-h-screen pt-24 pb-16 bg-gray-50 dark:bg-dark-bg transition-colors duration-300">
+    <div id="contact" className="min-h-screen pt-24 pb-16 bg-gray-50 dark:bg-dark-bg transition-colors duration-300">
       <div className="container mx-auto px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

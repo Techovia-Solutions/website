@@ -1,45 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-// import { Globe, Smartphone, Cloud, Cpu, Briefcase, ArrowRight, ServerCog, Link2 } from "lucide-react";
-
-// const services = [
-//   {
-//     title: "Web Development",
-//     tagline: "Future-proof websites built with speed and scalability in mind.",
-//     description: "From responsive websites to progressive web apps, we ensure your online presence is robust and user-friendly.",
-//     icon: <Globe className="w-12 h-12 text-blue-500" />,
-//     color: "bg-blue-50 dark:bg-blue-900/20",
-//   },
-//   {
-//     title: "Mobile Development",
-//     tagline: "Mobile apps that delight and perform.",
-//     description: "Crafting intuitive mobile experiences for iOS and Android with top-tier functionality and performance.",
-//     icon: <Smartphone className="w-12 h-12 text-green-500" />,
-//     color: "bg-green-50 dark:bg-green-900/20",
-//   },
-//   {
-//     title: "Cloud Support",
-//     tagline: "Scale smarter, not harder.",
-//     description: "Cloud-based solutions that drive growth—AWS, Azure, or GCP, tailored to your business needs.",
-//     icon: <Cloud className="w-12 h-12 text-sky-500" />,
-//     color: "bg-sky-50 dark:bg-sky-900/20",
-//   },
-//   {
-//     title: "ML/AI Automation",
-//     tagline: "Harness the power of AI for smarter decisions.",
-//     description: "Let AI and Machine Learning automate repetitive tasks, enhance efficiency, and bring data-driven insights.",
-//     icon: <Cpu className="w-12 h-12 text-purple-500" />,
-//     color: "bg-purple-50 dark:bg-purple-900/20",
-//   },
-//   {
-//     title: "Project Assistance",
-//     tagline: "Guiding your tech projects to success, every step of the way.",
-//     description: "Whether you need project management, DevOps, or end-to-end technical support, we’ve got your back.",
-//     icon: <Briefcase className="w-12 h-12 text-orange-500" />,
-//     color: "bg-orange-50 dark:bg-orange-900/20",
-//   },
-// ];
-
 import {
   Globe,
   Smartphone,
